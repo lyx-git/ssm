@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31b28207-8f09-4f95-8ab2-974f39ff5176" name="Default" comment="" />
+    <list default="true" id="31b28207-8f09-4f95-8ab2-974f39ff5176" name="Default" comment="提交git" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -189,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545128741456</updated>
-      <workItem from="1545128747352" duration="299000" />
+      <workItem from="1545128747352" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="提交git">
       <created>1545128811581</created>
@@ -198,11 +198,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545128811581</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="提交git">
+      <created>1545129147926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545129147926</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299000" />
+    <option name="totallyTimeSpent" value="602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />

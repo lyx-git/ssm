@@ -12,6 +12,7 @@ public class GitDemo {
         System.out.println("aaaaaaaaaaaaaaaaa");
         System.out.println("aaaaaaaaaaaaaaaaa");
         System.out.println("bbbbbbbb");
+		int a = 10;
         System.out.println("ccccccccccc");
     }
 }

@@ -209,7 +209,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545128741456</updated>
-      <workItem from="1545128747352" duration="2529000" />
+      <workItem from="1545128747352" duration="2576000" />
     </task>
     <task id="LOCAL-00001" summary="提交git">
       <created>1545128811581</created>
@@ -253,11 +253,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545131800684</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改了git">
+      <created>1545132013941</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1545132013941</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2529000" />
+    <option name="totallyTimeSpent" value="2576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
